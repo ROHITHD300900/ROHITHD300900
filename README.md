@@ -113,4 +113,97 @@ graph LR
 
 <div align="center">
   <i>⭐ Feel free to explore my repositories and connect with me!</i>
+
+---
+
+## 💼 Professional Highlights
+
+<div align="center">
+
+### 🎯 What I Bring to Your Team
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Security-Mindset-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+<br><br>
+<b>🛡️ Security-First Approach</b>
+<br>
+<sub>Ethical hacking principles applied to every line of code. Building secure systems from the ground up.</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Continuous-Learning-00ADD8?style=for-the-badge&logo=coursera&logoColor=white" />
+<br><br>
+<b>📚 Always Growing</b>
+<br>
+<sub>Currently pursuing CEH certification. Completed EC-Council Python course. Never stop improving.</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Problem-Solver-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" />
+<br><br>
+<b>🧩 Solution-Oriented</b>
+<br>
+<sub>Combining automation skills with security knowledge to solve real-world challenges.</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Current Projects & Focus
+
+```python
+class CurrentJourney:
+    def __init__(self):
+        self.status = "Actively seeking cybersecurity opportunities"
+        self.focus_areas = [
+            "Penetration Testing",
+            "Security Automation",
+            "Network Security",
+            "Python Development"
+        ]
+        self.open_to = {
+            "roles": ["Junior Security Analyst", "SOC Analyst", "Penetration Tester"],
+            "internships": True,
+            "collaborations": True
+        }
+    
+    def current_mission(self):
+        return "Building practical security tools and documenting my learning journey"
+
+me = CurrentJourney()
+print(f"Status: {me.current_mission()}")
+# Output: Status: Building practical security tools and documenting my learning journey
+```
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+### I'm always open to discussing:
+- 🔐 Cybersecurity opportunities and internships
+- 🤝 Collaboration on security projects
+- 💡 Ideas about ethical hacking and penetration testing
+- 📖 Knowledge sharing in the security community
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-d-a46aaa288/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithd300900@gmail.com)
+
+<br>
+
+### 💭 Daily Motivation
+
+*"The only way to do great work is to love what you do. Stay curious, stay ethical, stay secure!"*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer" width="100%"/>
+
+</div>
 </div>
