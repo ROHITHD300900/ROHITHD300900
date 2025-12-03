@@ -1,32 +1,22 @@
 # Hi there, I'm Rohith D! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Professional;Python+Programmer;CEH+in+Progress;Learning+to+Hack+for+Good" alt="Typing SVG" />
-</div>
+> 🎯 **Seeking:** Junior Security Analyst | SOC Analyst | Penetration Tester  
+> 🛡️ **Skills:** Python, Ethical Hacking, Network Security, CEH in Progress  
+> 📍 **Location:** Chennai, India  
+> 📧 **Email:** rohithd300900@gmail.com | 🔗 **[LinkedIn](https://www.linkedin.com/in/rohith-d-a46aaa288/)**
+
+---
 
 ## 🛡️ About Me
 
-- 🔐 **Cybersecurity Enthusiast** passionate about ethical hacking and security
-- 🐍 **Python Programmer** building automation and security tools
-- 📚 Currently pursuing **CEH (Certified Ethical Hacker)** certification
-- 🎓 Completed **EC-Council Python Programming Course**
-- 🌱 Learning penetration testing, malware analysis, and network security
-- 📍 Based in **Chennai, India**
-- 💼 Open to entry-level cybersecurity roles and internships
+- **Cybersecurity Enthusiast** passionate about ethical hacking and building secure systems
+- **Python Programmer** creating automation and security tools
+- Currently pursuing **CEH (Certified Ethical Hacker)** certification
+- Completed **EC-Council Python Programming Course**
+- Learning penetration testing, malware analysis, and network security
+- Open to entry-level cybersecurity roles and internships
 
-## 🚀 Current Focus
-
-```python
-class CybersecurityJourney:
-    def __init__(self):
-        self.current_role = "Aspiring Security Analyst"
-        self.learning = ["Python", "Ethical Hacking", "Network Security"]
-        self.certifications_in_progress = ["CEH"]
-        self.goal = "Become a skilled Cybersecurity Professional"
-    
-    def daily_routine(self):
-        return "Learn → Practice → Build → Repeat"
-```
+---
 
 ## 🛠️ Technical Skills
 
@@ -44,166 +34,94 @@ class CybersecurityJourney:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHITHD300900&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHD300900&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITHD300900&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+---
 
 ## 📂 Featured Projects
 
-### 🐍 Python Cybersecurity Notes
-[![Python Notes](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHITHD300900/Python-Cybersecurity-Notes)
+### 🐍 **CEH-Practice-Tools**
+[Repository](https://github.com/ROHITHD300900/CEH-Practice-Tools)
 
-Comprehensive Python programming notes from EC-Council course, covering:
-- Core Python fundamentals
-- Security-relevant programming concepts
-- Practical implementations and projects
-- Foundation for cybersecurity automation
+Interactive Python tools for CEH certification preparation
+- **Network Scanners:** Built port scanning and network reconnaissance tools
+- **Security Scripts:** Created password strength analyzers and encryption utilities
+- **Outcome:** Hands-on foundation for penetration testing concepts
 
-## 🎯 Learning Path
+### 🔐 **CEH-Security-Labs**
+[Repository](https://github.com/ROHITHD300900/CEH-Security-Labs)
 
-```mermaid
-graph LR
-    A[Python Basics] --> B[Security Fundamentals]
-    B --> C[Ethical Hacking]
-    C --> D[CEH Certification]
-    D --> E[Cybersecurity Professional]
-```
+Practical security labs and exercises from my CEH certification journey
+- **Documented Methodologies:** Lab walkthroughs with tools and techniques
+- **Real-world Scenarios:** Network security, vulnerability assessment exercises
+- **Outcome:** Portfolio demonstrating applied ethical hacking knowledge
 
-## 📫 Connect With Me
+### 🐍 **Python-Cybersecurity-Notes**
+[Repository](https://github.com/ROHITHD300900/Python-Cybersecurity-Notes)
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-d-a46aaa288)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHITHD300900)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+Comprehensive Python programming notes from EC-Council course
+- **Fundamentals:** Core Python concepts with security applications
+- **Foundation:** Building automation and security tool development skills
+- **Outcome:** Clear reference for security automation projects
 
-</div>
+### 🏗️ **Cybersecurity-Student-Journey**
+[Repository](https://github.com/ROHITHD300900/Cybersecurity-Student-Journey)
 
-## 💡 Quick Facts
+Comprehensive learning path through cybersecurity
+- **Structured Curriculum:** From fundamentals to advanced ethical hacking
+- **CTF Challenges:** Documented capture-the-flag walkthroughs and solutions
+- **Outcome:** Complete portfolio of learning and problem-solving approach
 
-- ⚡ **Fun fact**: Started learning cybersecurity to understand how systems can be secured
-- 🎯 **2025 Goal**: Obtain CEH certification and land my first cybersecurity role
-- 📖 **Currently Reading**: Security best practices and penetration testing methodologies
-- 🔧 **Working On**: Building security automation scripts with Python
+---
 
-## 🏆 Certifications & Courses
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHITHD300900&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHD300900&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎓 Certifications & Learning Path
 
 - ✅ **EC-Council Python Programming Course** - Completed
-- 🔄 **Certified Ethical Hacker (CEH)** - In Progress
-- 🎯 **Future**: OSCP, Security+, and more
+- 🔄 **Certified Ethical Hacker (CEH)** - In Progress (2025 Goal)
+- 🎯 **Future:** OSCP, Security+, CCNA Security
+
+---
+
+## 💼 What I Bring
+
+| 🛡️ Security Mindset | 📚 Continuous Learning | 🧩 Problem Solver |
+|---|---|---|
+| Ethical hacking principles applied to every project | Pursuing CEH certification while building practical skills | Combining automation expertise with security knowledge |
+
+---
+
+## 📫 Let's Connect!
+
+💬 Always open to discussing:
+- 🔐 Cybersecurity opportunities and internships
+- 🤝 Collaboration on security projects
+- 💡 Ethical hacking and penetration testing
+- 📖 Knowledge sharing in the security community
+
+**[LinkedIn](https://www.linkedin.com/in/rohith-d-a46aaa288/)** | **[Email](mailto:rohithd300900@gmail.com)**
+
+---
+
+## ⚡ Fun Facts
+
+- 🎯 **Goal:** Obtain CEH certification and land first cybersecurity role in 2025
+- 🔧 **Currently Working On:** Security automation scripts with Python
+- 📖 **Learning:** Penetration testing methodologies and threat intelligence
+- 🏈 **Outside Work:** Football and Kho-Kho enthusiast
 
 ---
 
 <div align="center">
   
-### 🌟 "Learning to hack for good, one line of code at a time" 🌟
+### 🌟 "Learning to hack for good, one secure line of code at a time" 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ROHITHD300900&color=blueviolet&style=for-the-badge)
 
-</div>
+⭐ Feel free to explore my repositories and connect with me!
 
----
-
-<div align="center">
-  <i>⭐ Feel free to explore my repositories and connect with me!</i>
-
----
-
-## 💼 Professional Highlights
-
-<div align="center">
-
-### 🎯 What I Bring to Your Team
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Security-Mindset-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-<br><br>
-<b>🛡️ Security-First Approach</b>
-<br>
-<sub>Ethical hacking principles applied to every line of code. Building secure systems from the ground up.</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Continuous-Learning-00ADD8?style=for-the-badge&logo=coursera&logoColor=white" />
-<br><br>
-<b>📚 Always Growing</b>
-<br>
-<sub>Currently pursuing CEH certification. Completed EC-Council Python course. Never stop improving.</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Problem-Solver-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" />
-<br><br>
-<b>🧩 Solution-Oriented</b>
-<br>
-<sub>Combining automation skills with security knowledge to solve real-world challenges.</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🚀 Current Projects & Focus
-
-```python
-class CurrentJourney:
-    def __init__(self):
-        self.status = "Actively seeking cybersecurity opportunities"
-        self.focus_areas = [
-            "Penetration Testing",
-            "Security Automation",
-            "Network Security",
-            "Python Development"
-        ]
-        self.open_to = {
-            "roles": ["Junior Security Analyst", "SOC Analyst", "Penetration Tester"],
-            "internships": True,
-            "collaborations": True
-        }
-    
-    def current_mission(self):
-        return "Building practical security tools and documenting my learning journey"
-
-me = CurrentJourney()
-print(f"Status: {me.current_mission()}")
-# Output: Status: Building practical security tools and documenting my learning journey
-```
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-### I'm always open to discussing:
-- 🔐 Cybersecurity opportunities and internships
-- 🤝 Collaboration on security projects
-- 💡 Ideas about ethical hacking and penetration testing
-- 📖 Knowledge sharing in the security community
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-d-a46aaa288/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithd300900@gmail.com)
-
-<br>
-
-### 💭 Daily Motivation
-
-*"The only way to do great work is to love what you do. Stay curious, stay ethical, stay secure!"*
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100§ion=footer" width="100%"/>
-
-</div>
 </div>
