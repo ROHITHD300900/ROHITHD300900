@@ -122,6 +122,54 @@ Comprehensive learning path through cybersecurity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ROHITHD300900&color=blueviolet&style=for-the-badge)
 
+---
+
+## 🔗 Quick Links & Resources
+
+- **LinkedIn:** [in/rohith-d-a46aaa288](https://www.linkedin.com/in/rohith-d-a46aaa288/)
+- **Email:** rohithd300900@gmail.com
+- **GitHub:** github.com/ROHITHD300900
+
+### Featured Learning Paths
+- 🔐 **CEH Certification:** In progress - Mastering ethical hacking fundamentals
+- 🐍 **Python Security:** Building security automation tools and scripts
+- 🛡️ **Vulnerability Assessment:** Hands-on lab experience
+- 📋 **CTF Challenges:** Capture-the-flag writeups and solutions
+
+---
+
+## 📊 Key Highlights
+
+| Area | Proficiency | Status |
+|------|-------------|--------|
+| Python Programming | ⭐⭐⭐⭐ | Intermediate |
+| Network Security | ⭐⭐⭐ | Learning |
+| Ethical Hacking | ⭐⭐⭐ | In Progress |
+| Linux/Bash | ⭐⭐⭐ | Intermediate |
+| Security Tools | ⭐⭐⭐ | Intermediate |
+
+---
+
+## 💡 Open To
+
+- 🎯 **Internship Opportunities** in cybersecurity
+- 🤝 **Collaboration** on security projects
+- 📚 **Knowledge Sharing** and mentoring
+- 🔐 **Security Research** initiatives
+
+---
+
+## 🎓 How To Use This Profile
+
+1. **Explore Pinned Repos:** Check my featured projects above
+2. **Review Lab Exercises:** See hands-on security learning
+3. **Check Commits:** Track consistent learning progress
+4. **Contact Me:** Email or LinkedIn for opportunities
+
+---
+
+⭐ **If you find my work valuable, consider giving repos a star!**
+
 ⭐ Feel free to explore my repositories and connect with me!
 
 </div>
