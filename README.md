@@ -1,175 +1,145 @@
-# Hi there, I'm Rohith D! 👋
+# 👋 Hi, I'm Rohith D
 
-> 🎯 **Seeking:** Junior Security Analyst | SOC Analyst | Penetration Tester  
-> 🛡️ **Skills:** Python, Ethical Hacking, Network Security, CEH in Progress  
-> 📍 **Location:** Chennai, India  
-> 📧 **Email:** rohithd300900@gmail.com | 🔗 **[LinkedIn](https://www.linkedin.com/in/rohith-d-a46aaa288/)**
-
----
-
-## 🛡️ About Me
-
-- **Cybersecurity Enthusiast** passionate about ethical hacking and building secure systems
-- **Python Programmer** creating automation and security tools
-- Currently pursuing **CEH (Certified Ethical Hacker)** certification
-- Completed **EC-Council Python Programming Course**
-- Learning penetration testing, malware analysis, and network security
-- Open to entry-level cybersecurity roles and internships
+**Entry-Level Governance, Risk & Compliance (GRC) Analyst**  
+Chennai, India 🇮🇳 • Open to Junior GRC / IT Risk / InfoSec Governance roles  
+📧 rohithd300900@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rohith-d-a46aaa288/)
 
 ---
 
-## 🛠️ Technical Skills
+## 🎯 Professional Summary
 
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I am an aspiring **Governance, Risk & Compliance (GRC) professional** transitioning from technical cybersecurity into business-focused **information security governance and risk management**. 
 
-### Cybersecurity
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge&logo=metasploit&logoColor=white)
+My mission is to help organizations:
+- 🔍 **Identify and assess** IT and cyber risks systematically
+- 📋 **Map controls** to compliance frameworks (ISO 27001, NIST CSF, SOC 2)
+- 📝 **Document governance** through policies, procedures, and risk registers
+- ✅ **Prepare for audits** with organized evidence and compliance readiness
+- 🤝 **Manage vendor risk** and third-party security assessments
 
-### Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I build **practical, audit-ready deliverables** that translate cybersecurity concepts into business risk language.
 
 ---
 
-## 📂 Featured Projects
+## 🔍 What I Do
 
-### 🐍 **CEH-Practice-Tools**
-[Repository](https://github.com/ROHITHD300900/CEH-Practice-Tools)
+### Core Competencies
 
-Interactive Python tools for CEH certification preparation
-- **Network Scanners:** Built port scanning and network reconnaissance tools
-- **Security Scripts:** Created password strength analyzers and encryption utilities
-- **Outcome:** Hands-on foundation for penetration testing concepts
-
-### 🔐 **CEH-Security-Labs**
-[Repository](https://github.com/ROHITHD300900/CEH-Security-Labs)
-
-Practical security labs and exercises from my CEH certification journey
-- **Documented Methodologies:** Lab walkthroughs with tools and techniques
-- **Real-world Scenarios:** Network security, vulnerability assessment exercises
-- **Outcome:** Portfolio demonstrating applied ethical hacking knowledge
-
-### 🐍 **Python-Cybersecurity-Notes**
-[Repository](https://github.com/ROHITHD300900/Python-Cybersecurity-Notes)
-
-Comprehensive Python programming notes from EC-Council course
-- **Fundamentals:** Core Python concepts with security applications
-- **Foundation:** Building automation and security tool development skills
-- **Outcome:** Clear reference for security automation projects
-
-### 🏗️ **Cybersecurity-Student-Journey**
-[Repository](https://github.com/ROHITHD300900/Cybersecurity-Student-Journey)
-
-Comprehensive learning path through cybersecurity
-- **Structured Curriculum:** From fundamentals to advanced ethical hacking
-- **CTF Challenges:** Documented capture-the-flag walkthroughs and solutions
-- **Outcome:** Complete portfolio of learning and problem-solving approach
+| Area | Skills |
+|------|--------|
+| **Risk Management** | Risk identification, assessment, scoring, register maintenance, risk treatment planning |
+| **Governance & Compliance** | Control design, control mapping, policy & procedure development, compliance gap analysis |
+| **Frameworks & Standards** | ISO 27001 (Annex A controls, SoA), NIST CSF (Identify/Protect/Detect/Respond/Recover), SOC 2 Trust Services Criteria |
+| **GRC Documentation** | Risk registers, control matrices, policies, audit checklists, vendor questionnaires, BIA templates |
+| **Business Communication** | Risk-based decision making, stakeholder reporting, compliance readiness, audit support |
+| **Cybersecurity Foundation** | Network security, vulnerability concepts, incident response, business continuity basics |
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Certifications & Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHITHD300900&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHD300900&layout=compact&theme=tokyonight&hide_border=true)
+### Certifications Completed
+- ✅ **Cybersecurity for Businesses – The Fundamental Edition** (CodeRed) – Validation of Course Completion
+- ✅ **EC-Council Python Programming Course** – Completed
+- 🔄 **Certified Ethical Hacker (CEH)** – In Progress
 
----
-
-## 🎓 Certifications & Learning Path
-
-- ✅ **EC-Council Python Programming Course** - Completed
-- 🔄 **Certified Ethical Hacker (CEH)** - In Progress (2025 Goal)
-- 🎯 **Future:** OSCP, Security+, CCNA Security
-
----
-
-## 💼 What I Bring
-
-| 🛡️ Security Mindset | 📚 Continuous Learning | 🧩 Problem Solver |
-|---|---|---|
-| Ethical hacking principles applied to every project | Pursuing CEH certification while building practical skills | Combining automation expertise with security knowledge |
-
----
-
-## 📫 Let's Connect!
-
-💬 Always open to discussing:
-- 🔐 Cybersecurity opportunities and internships
-- 🤝 Collaboration on security projects
-- 💡 Ethical hacking and penetration testing
-- 📖 Knowledge sharing in the security community
-
-**[LinkedIn](https://www.linkedin.com/in/rohith-d-a46aaa288/)** | **[Email](mailto:rohithd300900@gmail.com)**
-
----
-
-## ⚡ Fun Facts
-
-- 🎯 **Goal:** Obtain CEH certification and land first cybersecurity role in 2025
-- 🔧 **Currently Working On:** Security automation scripts with Python
-- 📖 **Learning:** Penetration testing methodologies and threat intelligence
-- 🏈 **Outside Work:** Football and Kho-Kho enthusiast
-
----
-
-<div align="center">
+### Frameworks Studied
+- **ISO/IEC 27001:2022** – Information Security Management System  
+  - Annex A control objectives and controls (14 domains)
+  - Statement of Applicability (SoA) development
+  - Risk treatment and control implementation concepts
   
-### 🌟 "Learning to hack for good, one secure line of code at a time" 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=ROHITHD300900&color=blueviolet&style=for-the-badge)
-
----
-
-## 🔗 Quick Links & Resources
-
-- **LinkedIn:** [in/rohith-d-a46aaa288](https://www.linkedin.com/in/rohith-d-a46aaa288/)
-- **Email:** rohithd300900@gmail.com
-- **GitHub:** github.com/ROHITHD300900
-
-### Featured Learning Paths
-- 🔐 **CEH Certification:** In progress - Mastering ethical hacking fundamentals
-- 🐍 **Python Security:** Building security automation tools and scripts
-- 🛡️ **Vulnerability Assessment:** Hands-on lab experience
-- 📋 **CTF Challenges:** Capture-the-flag writeups and solutions
+- **NIST Cybersecurity Framework (CSF) v1.1**  
+  - Five core functions: Identify, Protect, Detect, Respond, Recover
+  - Categories and Subcategories for self-assessment
+  - Current vs. Target-State maturity assessment
+  
+- **SOC 2 Trust Services Criteria**  
+  - Trust Services Principles (Security, Availability, Confidentiality)
+  - Control categories and testing approaches
+  - Preparation strategies for Type 1 audits
 
 ---
 
-## 📊 Key Highlights
+## 🛠️ Tools & Technologies
 
-| Area | Proficiency | Status |
-|------|-------------|--------|
-| Python Programming | ⭐⭐⭐⭐ | Intermediate |
-| Network Security | ⭐⭐⭐ | Learning |
-| Ethical Hacking | ⭐⭐⭐ | In Progress |
-| Linux/Bash | ⭐⭐⭐ | Intermediate |
-| Security Tools | ⭐⭐⭐ | Intermediate |
+### GRC & Documentation
+- 📊 **Spreadsheet & Analysis**: Excel, Google Sheets (risk registers, control matrices, scoring models, BIA templates)
+- 📄 **Documentation**: Markdown, Microsoft Word, Google Docs (policies, procedures, reports)
+- 🎨 **Diagramming**: Draw.io, Lucidchart (process flows, data flows, risk visualizations)
 
----
+### Technical & Cybersecurity
+- 🐍 **Python** – Scripting, automation, simple report generation
+- 🖥️ **Linux/CLI** – Command line basics, shell scripting fundamentals
 
-## 💡 Open To
-
-- 🎯 **Internship Opportunities** in cybersecurity
-- 🤝 **Collaboration** on security projects
-- 📚 **Knowledge Sharing** and mentoring
-- 🔐 **Security Research** initiatives
+### Version Control
+- 📦 **Git & GitHub** – Repository management, version control, collaborative documentation
 
 ---
 
-## 🎓 How To Use This Profile
+## 📂 GRC Portfolio Projects
 
-1. **Explore Pinned Repos:** Check my featured projects above
-2. **Review Lab Exercises:** See hands-on security learning
-3. **Check Commits:** Track consistent learning progress
-4. **Contact Me:** Email or LinkedIn for opportunities
+### ⭐ Core GRC Toolkit
+
+1. **[Enterprise-Risk-Register-Framework](https://github.com/ROHITHD300900/Enterprise-Risk-Register-Framework)**  
+   Complete framework for identifying, scoring, and tracking enterprise IT and cyber risks.
+
+2. **[ISO27001-Control-Mapping-Toolkit](https://github.com/ROHITHD300900/ISO27001-Control-Mapping-Toolkit)**  
+   Map Annex A controls to organizational processes and create SOA documentation.
+
+3. **[NIST-CSF-Implementation-Guide](https://github.com/ROHITHD300900/NIST-CSF-Implementation-Guide)**  
+   Assess maturity against NIST CSF and develop improvement roadmaps.
+
+4. **[Security-Policy-Library](https://github.com/ROHITHD300900/Security-Policy-Library)**  
+   Baseline security policies ready to adapt for any organization.
+
+5. **[Vendor-Risk-Assessment-Toolkit](https://github.com/ROHITHD300900/Vendor-Risk-Assessment-Toolkit)**  
+   End-to-end vendor risk management framework with questionnaires and scoring.
+
+6. **[SOC2-Readiness-Toolkit](https://github.com/ROHITHD300900/SOC2-Readiness-Toolkit)**  
+   Help organizations prepare for SOC 2 Type 1 audits.
+
+7. **[Incident-Response-Playbook](https://github.com/ROHITHD300900/Incident-Response-Playbook)**  
+   Complete IR plan with playbooks for common incidents.
+
+8. **[Business-Impact-Analysis-Toolkit](https://github.com/ROHITHD300900/Business-Impact-Analysis-Toolkit)**  
+   BIA questionnaires, impact scoring, and RTO/RPO matrices.
+
+9. **[Compliance-Audit-Preparation-Toolkit](https://github.com/ROHITHD300900/Compliance-Audit-Preparation-Toolkit)**  
+   Audit preparation checklist, evidence tracker, and schedules.
+
+10. **[Risk-Assessment-Methodology](https://github.com/ROHITHD300900/Risk-Assessment-Methodology)**  
+    End-to-end risk assessment methodology with workshops and templates.
 
 ---
 
-⭐ **If you find my work valuable, consider giving repos a star!**
+## 🎓 Current Learning Goals
 
-⭐ Feel free to explore my repositories and connect with me!
+- 📖 Deepen hands-on experience with **ISO 27001** and **NIST CSF** implementation
+- 🏆 Build advanced **risk quantification** and **control effectiveness** models
+- 📊 Explore **Python automation** for GRC reporting and evidence tracking
 
-</div>
+---
+
+## 📫 Contact & Connect
+
+- **Email**: rohithd300900@gmail.com  
+- **LinkedIn**: [linkedin.com/in/rohith-d-a46aaa288](https://www.linkedin.com/in/rohith-d-a46aaa288/)  
+- **GitHub**: [github.com/ROHITHD300900](https://github.com/ROHITHD300900)  
+
+---
+
+## 🤝 Open To
+
+- **Junior GRC Analyst** positions
+- **IT Risk Management** roles
+- **Compliance Analyst** positions
+- **Information Security Governance** roles
+
+If my portfolio aligns with your team's needs, I'd welcome a conversation about how I can contribute to your organization's governance, risk, and compliance objectives.
+
+---
+
+**Last Updated**: March 2026 | **Status**: Active & Continuously Learning
+
+*"Governance is not about control—it's about enabling the business to take smart risks."*
