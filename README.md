@@ -2,7 +2,7 @@
 
 **Entry-Level Governance, Risk & Compliance (GRC) Analyst**  
 Chennai, India 🇮🇳 • Open to Junior GRC / IT Risk / InfoSec Governance roles  
-📧 rohithd300900@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rohith-d-a46aaa288/)
+📧 rohithd300900@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/rohith-d-7745b43b6/)
 
 ---
 
@@ -124,7 +124,7 @@ I build **practical, audit-ready deliverables** that translate cybersecurity con
 ## 📫 Contact & Connect
 
 - **Email**: rohithd300900@gmail.com  
-- **LinkedIn**: [linkedin.com/in/rohith-d-a46aaa288](https://www.linkedin.com/in/rohith-d-a46aaa288/)  
+- **LinkedIn**: [linkedin.com/in/rohith-d-7745b43b6](https://www.linkedin.com/in/rohith-d-7745b43b6/)  
 - **GitHub**: [github.com/ROHITHD300900](https://github.com/ROHITHD300900)  
 
 ---
